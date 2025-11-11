@@ -15,7 +15,7 @@
 - Currently building **Electron.js** desktop apps - *Notemark* (Notes + Tasks Manager) and *Copycat* (Clipboard Manager).  
 - Developed **Briefly**, a full-stack MERN web app that summarizes YouTube videos using Gemini API.  
 - Final Year Project: **Cardiovascular Disease Classification using ECG Images** (Hybrid CNN+ViT & VGG16 models).  
-- Experienced in both **frontend & backend** - built complete CRUD apps with Flutter, Node.js, and MySQL.  
+- Experienced in both **frontend & backend** - built complete CRUD apps with MERN, Flutter, Node.js, and MySQL.  
 - Passionate about turning ideas into functional, polished products.
 - Learning advanced system design and performance optimization to scale real-world applications.  
 - Open to collaborations, projects, and discussions that push limits.  
